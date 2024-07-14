@@ -7,9 +7,10 @@
 ]
 
 /*for(let i=0; i<students.length; i++)
+for(const stud of students)
 {
-console.log(`Hello ${students[i]}`)
-}
+    console.log(`Hello ${stud}`);
+}*/
 
 /*const marks=[10,20,60,100,90]
 
