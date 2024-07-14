@@ -25,7 +25,7 @@ for(const num of marks)
 }
 console.log(`Largest number is ${largest}`);*/
 
-const numbers=[2,5,10,11,14,19]
+const numbers=[2,7,10,13,14,17]
 
 let sum=0;
 for(let i=0; i<numbers.length; i++)
