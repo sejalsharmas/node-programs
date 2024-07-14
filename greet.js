@@ -12,7 +12,7 @@ for(const stud of students)
     console.log(`Hello ${stud}`);
 }*/
 
-/*const marks=[10,20,60,100,90]
+/*const marks=[10,20,150,100,90]
 
 let largest=marks[0]
 
